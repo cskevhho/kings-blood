@@ -1,0 +1,842 @@
+[
+    {
+        "number": "1",
+        "name": "Security Officer",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Starter card"
+    },
+    {
+        "number": "2",
+        "name": "Riot Trooper",
+        "stats": "Rank: 2 Power: 3",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy the \"Suppressive Strikers\" booster pack from Thorin"
+    },
+    {
+        "number": "3",
+        "name": "Grenadier",
+        "stats": "Rank: 2 Power: 1",
+        "effect": "Enfeeble",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy the \"Ruffians\" booster pack from Thorin"
+    },
+    {
+        "number": "4",
+        "name": "J-Unit Sweeper",
+        "stats": "Rank: 2 Power: 2",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Starter card"
+    },
+    {
+        "number": "5",
+        "name": "Queen Bee",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Starter card"
+    },
+    {
+        "number": "6",
+        "name": "Toxirat",
+        "stats": "Rank: 2 Power: 2",
+        "effect": "Enfeeble",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy the \"Suppressive Strikers\" booster pack from Thorin"
+    },
+    {
+        "number": "7",
+        "name": "Levikron",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Starter card"
+    },
+    {
+        "number": "8",
+        "name": "Grasslands Wolf",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Starter card"
+    },
+    {
+        "number": "9",
+        "name": "Mu",
+        "stats": "Rank: 2 Power: 1",
+        "effect": "Enhance",
+        "location": "Grasslands Region",
+        "how_to_get": "Starter card"
+    },
+    {
+        "number": "10",
+        "name": "Mandragora",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Adds Mandragora Minion to your hand",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy the \"Ruffians\" booster pack from Thorin"
+    },
+    {
+        "number": "11",
+        "name": "Elphadunk",
+        "stats": "Rank: 2 Power: 4",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Starter card"
+    },
+    {
+        "number": "12",
+        "name": "Cactuar",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance",
+        "location": "Grasslands Region",
+        "how_to_get": "Defeat Nene/Mr. Cuddlesworth in Kalm"
+    },
+    {
+        "number": "13",
+        "name": "Crystalline Crab",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance",
+        "location": "Grasslands Region",
+        "how_to_get": "Defeat Ned in Kalm"
+    },
+    {
+        "number": "14",
+        "name": "Quetzalcoatl",
+        "stats": "Rank: 2 Power: 3",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy the \"Ruffians\" booster pack from Thorin"
+    },
+    {
+        "number": "15",
+        "name": "Zu",
+        "stats": "Rank: 2 Power: 2",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy the \"Ruffians\" booster pack from Thorin"
+    },
+    {
+        "number": "16",
+        "name": "Devil Rider",
+        "stats": "Rank: 2 Power: 4",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy the \"Suppressive Strikers\" booster pack from Thorin"
+    },
+    {
+        "number": "17",
+        "name": "Screamer",
+        "stats": "Rank: 3 Power: 1",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Defeat Zahira in Kalm"
+    },
+    {
+        "number": "18",
+        "name": "Flan",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy the \"Suppressive Strikers\" booster pack from Thorin"
+    },
+    {
+        "number": "19",
+        "name": "Crawler",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "No ability",
+        "location": "Junon Region",
+        "how_to_get": "Buy the \"Weird and Wicked\" booster pack from Under Junon item shop"
+    },
+    {
+        "number": "20",
+        "name": "Archdragon",
+        "stats": "Rank: 1 Power: 3",
+        "effect": "Enfeeble",
+        "location": "Junon Region",
+        "how_to_get": "Buy the \"Weird and Wicked\" booster pack from Under Junon item shop"
+    },
+    {
+        "number": "21",
+        "name": "Ogre",
+        "stats": "Rank: 2 Power: 5",
+        "effect": "No ability",
+        "location": "Junon Region",
+        "how_to_get": "Defeat the Moore twins in Under Junon"
+    },
+    {
+        "number": "22",
+        "name": "Deathwheel",
+        "stats": "Rank: 1 Power: 3",
+        "effect": "Enfeeble",
+        "location": "Junon Region",
+        "how_to_get": "Buy the \"Shut Up 'n' Drive\" booster pack from Crow's Nest vending machine"
+    },
+    {
+        "number": "23",
+        "name": "Fleetwing",
+        "stats": "Rank: 1 Power: 3",
+        "effect": "No ability",
+        "location": "Corel Region",
+        "how_to_get": "Win the first round of Card Carnival in Costa del Sol"
+    },
+    {
+        "number": "24",
+        "name": "Zemzelett",
+        "stats": "Rank: 2 Power: 1",
+        "effect": "Enhance",
+        "location": "Junon Region",
+        "how_to_get": "Defeat Zogan in Under Junon"
+    },
+    {
+        "number": "25",
+        "name": "Ignilisk",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance",
+        "location": "Junon Region",
+        "how_to_get": "Buy the \"Shut Up 'n' Drive\" booster pack from Crow's Nest vending machine"
+    },
+    {
+        "number": "26",
+        "name": "Capparwire",
+        "stats": "Rank: 1 Power: 3",
+        "effect": "Enfeeble",
+        "location": "Junon Region",
+        "how_to_get": "Buy the \"Weird and Wicked\" booster pack from Under Junon item shop"
+    },
+    {
+        "number": "27",
+        "name": "Mindflayer",
+        "stats": "Rank: 2 Power: 1",
+        "effect": "Enfeeble",
+        "location": "Junon Region",
+        "how_to_get": "Defeat Michaela in Crow's Nest"
+    },
+    {
+        "number": "28",
+        "name": "Scrutineye",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "Enhance",
+        "location": "Junon Region",
+        "how_to_get": "Buy the \"Shut Up 'n' Drive\" booster pack from Crow's Nest vending machine"
+    },
+    {
+        "number": "29",
+        "name": "Hell Rider II",
+        "stats": "Rank: 3 Power: 5",
+        "effect": "Enfeeble",
+        "location": "Junon Region",
+        "how_to_get": "Buy the \"Shut Up 'n' Drive\" booster pack from Crow's Nest vending machine"
+    },
+    {
+        "number": "30",
+        "name": "Flametrooper",
+        "stats": "Rank: 1 Power: 3",
+        "effect": "Enfeeble",
+        "location": "Junon Region",
+        "how_to_get": "Defeat Neil in Crow's Nest"
+    },
+    {
+        "number": "31",
+        "name": "Spearhawk",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance",
+        "location": "Corel Region",
+        "how_to_get": "Win the fourth round of Card Carnival in Costa del Sol"
+    },
+    {
+        "number": "32",
+        "name": "Sea Devil",
+        "stats": "Rank: 3 Power: 1",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Win the fifth round of Card Carnival in Costa del Sol"
+    },
+    {
+        "number": "33",
+        "name": "Shoalopod",
+        "stats": "Rank: 2 Power: 1",
+        "effect": "Enhance",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"High Seas Horror\" booster pack from the Costa del Sol Queen's Blood vendor"
+    },
+    {
+        "number": "34",
+        "name": "Crown Lance",
+        "stats": "Rank: 2 Power: 2",
+        "effect": "Enfeeble",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"High Seas Horror\" booster pack from the Costa del Sol Queen's Blood vendor"
+    },
+    {
+        "number": "35",
+        "name": "Tonberry King",
+        "stats": "Rank: 2 Power: 1",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Win the sixth round of Card Carnival in Costa del Sol"
+    },
+    {
+        "number": "36",
+        "name": "Sandhog Pie",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance (on destroy)",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Uncanny Terrors\" booster pack from the North Corel weapons vendor"
+    },
+    {
+        "number": "37",
+        "name": "Bloatfloat",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enfeeble (on destroy)",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Uncanny Terrors\" booster pack from the North Corel weapons vendor"
+    },
+    {
+        "number": "38",
+        "name": "Bagnadrana",
+        "stats": "Rank: 3 Power: 2",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Navalan in North Corel (only after reaching rank 5)"
+    },
+    {
+        "number": "39",
+        "name": "Cockatrice",
+        "stats": "Rank: 3 Power: 3",
+        "effect": "Destroy",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Rolf in North Corel"
+    },
+    {
+        "number": "40",
+        "name": "Heatseeker",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Adds Heatseaker Minion to your hand (on destroy)",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Uncanny Terrors\" booster pack from the North Corel weapons vendor"
+    },
+    {
+        "number": "41",
+        "name": "Bomb",
+        "stats": "Rank: 2 Power: 2",
+        "effect": "Enfeeble",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Biff in North Corel"
+    },
+    {
+        "number": "42",
+        "name": "Thug",
+        "stats": "Rank: 2 Power: 4",
+        "effect": "No ability",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Dax in the Dustbowl"
+    },
+    {
+        "number": "43",
+        "name": "Death Claw",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Mary in the Dustbowl"
+    },
+    {
+        "number": "44",
+        "name": "Landworm",
+        "stats": "Rank: 3 Power: 5",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Heavy Hitters\" booster pack from the Dustbowl Queen's Blood vendor"
+    },
+    {
+        "number": "45",
+        "name": "Sandspitter",
+        "stats": "Rank: 2 Power: 3",
+        "effect": "Enfeeble",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Heavy Hitters\" booster pack from the Dustbowl Queen's Blood vendor"
+    },
+    {
+        "number": "46",
+        "name": "Chimera",
+        "stats": "Rank: 2 Power: 4",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Heavy Hitters\" booster pack from the Dustbowl Queen's Blood vendor"
+    },
+    {
+        "number": "47",
+        "name": "Joker",
+        "stats": "Rank: 2 Power: 2",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Pietro in the Dustbowl"
+    },
+    {
+        "number": "48",
+        "name": "Amphidex",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance",
+        "location": "Gongaga Region",
+        "how_to_get": "Buy the \"Jungle Arcanum\" booster pack from the Gongaga Village item shop"
+    },
+    {
+        "number": "49",
+        "name": "Frightflower",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance (on destroy)",
+        "location": "Gongaga Region",
+        "how_to_get": "Buy the \"Jungle Arcanum\" booster pack from the Gongaga Village item shop"
+    },
+    {
+        "number": "50",
+        "name": "Gagighandi",
+        "stats": "Rank: 2 Power: 4",
+        "effect": "Enfeeble (on destroy)",
+        "location": "Gongaga Region",
+        "how_to_get": "Buy the \"Jungle Arcanum\" booster pack from the Gongaga Village item shop"
+    },
+    {
+        "number": "51",
+        "name": "Insectoid Chimera",
+        "stats": "Power: 2",
+        "effect": "Replace",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Defeat Robin in the Cosmo Canyon inn"
+    },
+    {
+        "number": "52",
+        "name": "Gigantoad",
+        "stats": "Power: 3",
+        "effect": "Replace",
+        "location": "Gongaga Region",
+        "how_to_get": "Buy the \"Jungle Arcanum\" booster pack from the Gongaga Village item shop"
+    },
+    {
+        "number": "53",
+        "name": "Maloceros",
+        "stats": "Rank: 3 Power: 5",
+        "effect": "Bonus points",
+        "location": "Gongaga Region",
+        "how_to_get": "Defeat Regina (only after reaching rank 8)"
+    },
+    {
+        "number": "54",
+        "name": "Grandhorn",
+        "stats": "Power: 3",
+        "effect": "Replace",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Heavy Hitters\" booster pack from the Dustbowl Queen's Blood vendor"
+    },
+    {
+        "number": "55",
+        "name": "Great Malboro",
+        "stats": "Rank: 3 Power: 3",
+        "effect": "Enfeeble",
+        "location": "Gongaga Region",
+        "how_to_get": "Defeat Zhijun in Gongaga Village"
+    },
+    {
+        "number": "56",
+        "name": "Grangalan",
+        "stats": "Rank: 3 Power: 3",
+        "effect": "Adds Grangalan Junior to your hand",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Wize in the Dustbowl (only after reaching rank 7)"
+    },
+    {
+        "number": "57",
+        "name": "Amalgam",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Adds Resurrected Amalgam to hand (on destroy)",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Buy the \"Chimerical Creaturs\" booster pack from the Cosmo Canyon item shop"
+    },
+    {
+        "number": "58",
+        "name": "Skeeskee",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance (on destroy)",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Buy the \"Chimerical Creaturs\" booster pack from the Cosmo Canyon item shop"
+    },
+    {
+        "number": "59",
+        "name": "Griffon",
+        "stats": "Power: 1",
+        "effect": "Enhance/Replace",
+        "location": "Gongaga Region",
+        "how_to_get": "Defeat Oscar in Gongaga Village"
+    },
+    {
+        "number": "60",
+        "name": "Basilisk",
+        "stats": "Rank: 3 Power: 2",
+        "effect": "Destroy",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Buy the \"Chimerical Creaturs\" booster pack from the Cosmo Canyon item shop"
+    },
+    {
+        "number": "61",
+        "name": "Reapertail",
+        "stats": "Rank: 1 Power: 3",
+        "effect": "Enfeeble",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Defeat Bernard in Cosmo Canyon"
+    },
+    {
+        "number": "62",
+        "name": "Jabberwock",
+        "stats": "Rank 2: Power: 6",
+        "effect": "Enfeeble",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Buy the \"Stranger than Fiction\" booster pack from the Cosmo Canyon item shop"
+    },
+    {
+        "number": "63",
+        "name": "Desert Sahagin",
+        "stats": "Rank: 1 Power: 3",
+        "effect": "Enhance",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Buy the \"Stranger than Fiction\" booster pack from the Cosmo Canyon item shop"
+    },
+    {
+        "number": "64",
+        "name": "Cavestalker",
+        "stats": "Rank: 2 Power: 4",
+        "effect": "Enfeeble",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Buy the \"Stranger than Fiction\" booster pack from the Cosmo Canyon item shop"
+    },
+    {
+        "number": "65",
+        "name": "Stone Golem",
+        "stats": "Rank: 2 Power: 4",
+        "effect": "Enfeeble",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Buy the \"Chimerical Creaturs\" booster pack from the Cosmo Canyon item shop"
+    },
+    {
+        "number": "66",
+        "name": "Two Face",
+        "stats": "Rank: 2 Power: 3",
+        "effect": "Enhance/Enfeeble",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Defeat Ka'dina in Cosmo Canyon"
+    },
+    {
+        "number": "67",
+        "name": "Gi Specter",
+        "stats": "Power: 2",
+        "effect": "Replace/Enfeeble",
+        "location": "Cosmo Canyon Region",
+        "how_to_get": "Buy the \"Stranger than Fiction\" booster pack from the Cosmo Canyon item shop"
+    },
+    {
+        "number": "68",
+        "name": "Valron",
+        "stats": "Rank: 2 Power: 3",
+        "effect": "Raises own power",
+        "location": "Nibel Region",
+        "how_to_get": "Defeat Turner in the Nibelheim town hall"
+    },
+    {
+        "number": "69",
+        "name": "Disgorgon",
+        "stats": "Rank: 2 Power: 3",
+        "effect": "Boost position ranks",
+        "location": "Nibel Region",
+        "how_to_get": "Buy the \"Prehistoric Beasts\" booster pack from the Nibelheim item shop"
+    },
+    {
+        "number": "70",
+        "name": "Dragon",
+        "stats": "Rank: 3 Power: 5",
+        "effect": "Enfeeble",
+        "location": "Nibel Region",
+        "how_to_get": "Buy the \"Prehistoric Beasts\" booster pack from the Nibelheim item shop"
+    },
+    {
+        "number": "71",
+        "name": "Twin Brain",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Boost position ranks",
+        "location": "Nibel Region",
+        "how_to_get": "Defeat Dale in the Nibelheim treatment center"
+    },
+    {
+        "number": "72",
+        "name": "Black Bat",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "Enfeeble",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Carnival of Carnage\" booster back from the Costa del Sol Queen's Blood vendor (chapter 12)"
+    },
+    {
+        "number": "73",
+        "name": "Bahba Velamyu",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "Enfeeble (on destroy)",
+        "location": "Nibel Region",
+        "how_to_get": "Buy the \"Prehistoric Beasts\" booster pack from the Nibelheim item shop"
+    },
+    {
+        "number": "74",
+        "name": "Rictus",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Dokaccha in Costa del Sol (chapter 12)"
+    },
+    {
+        "number": "75",
+        "name": "Adjudicator",
+        "stats": "Rank: 2 Power: 1",
+        "effect": "Raises own power",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Carnival of Carnage\" booster back from the Costa del Sol Queen's Blood vendor (chapter 12)"
+    },
+    {
+        "number": "76",
+        "name": "Yin & Yang",
+        "stats": "Power: 3",
+        "effect": "Replace/Enhance",
+        "location": "Corel Region",
+        "how_to_get": "Buy the \"Carnival of Carnage\" booster back from the Costa del Sol Queen's Blood vendor (chapter 12)"
+    },
+    {
+        "number": "77",
+        "name": "Diabolic Variant",
+        "stats": "Power: 2",
+        "effect": "Replace/Enfeeble",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Riana in Costa del Sol (chapter 12)"
+    },
+    {
+        "number": "79",
+        "name": "2-C SOLDIER Operator",
+        "stats": "Rank: 2 Power: 3",
+        "effect": "Enhance",
+        "location": "Corel Region",
+        "how_to_get": "Defeat Maahir in Costa del Sol (chapter 12)"
+    },
+    {
+        "number": "95",
+        "name": "Ifrit",
+        "stats": "Rank: 3 Power: 6",
+        "effect": "Raises own power",
+        "location": "Junon Region",
+        "how_to_get": "Win the cruise ship tournament in chapter 5 or buy from Thorin's Card Shop"
+    },
+    {
+        "number": "96",
+        "name": "Shiva",
+        "stats": "Rank: 2 Power: 3",
+        "effect": "Fill empty positions",
+        "location": "Junon Region",
+        "how_to_get": "Defeat Isabelle in Under Junon"
+    },
+    {
+        "number": "98",
+        "name": "Titan",
+        "stats": "Rank: 2 Power: 5",
+        "effect": "Boost position ranks",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy from Thorin's Card Shop"
+    },
+    {
+        "number": "99",
+        "name": "Kujata",
+        "stats": "Rank: 3 Power: 6",
+        "effect": "Enfeeble",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy from Thorin's Card Shop"
+    },
+    {
+        "number": "101",
+        "name": "Phoenix",
+        "stats": "Rank: 3 Power: 4",
+        "effect": "Enhance (on destroy)",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy from Thorin's Card Shop"
+    },
+    {
+        "number": "103",
+        "name": "Alexander",
+        "stats": "Rank: 3 Power: 4",
+        "effect": "Raises own power",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy from Thorin's Card Shop"
+    },
+    {
+        "number": "105",
+        "name": "Bahamut Arisen",
+        "stats": "Rank: 3 Power: 4",
+        "effect": "Fill empty positions",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy from Thorin's Card Shop"
+    },
+    {
+        "number": "107",
+        "name": "Chocobo and Moogle",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Raises own power",
+        "location": "Grasslands Region",
+        "how_to_get": "Complete the \"A Rare Card Lost\" side quest in Kalm"
+    },
+    {
+        "number": "108",
+        "name": "Fat Chocobo",
+        "stats": "Rank: 3 Power: 5",
+        "effect": "No ability",
+        "location": "Grasslands Region",
+        "how_to_get": "Buy from Thorin's Card Shop"
+    },
+    {
+        "number": "109",
+        "name": "Posh Chocobo",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "Bonus points",
+        "location": "Corel Region",
+        "how_to_get": "Win the second round of Card Carnival in Costa del Sol"
+    },
+    {
+        "number": "110",
+        "name": "Moogle Trio",
+        "stats": "Rank: 2 Power: 1",
+        "effect": "Adds Moogle Mage and Moogle Bard to your hand",
+        "location": "Corel Region",
+        "how_to_get": "Win the third round of Card Carnival in Costa del Sol"
+    },
+    {
+        "number": "111",
+        "name": "Magic Pot",
+        "stats": "Rank: 3 Power: 1",
+        "effect": "Enhance",
+        "location": "Grasslands Region",
+        "how_to_get": "Starter card"
+    },
+    {
+        "number": "112",
+        "name": "Materia Guardian",
+        "stats": "Rank: 3 Power: 5",
+        "effect": "Enfeeble",
+        "location": "Gold Saucer",
+        "how_to_get": "Win the \"Ifrit's 32-Bit Flames\" Queen's Blood challenge in Wonderment Square"
+    },
+    {
+        "number": "113",
+        "name": "Midgardsormr",
+        "stats": "Rank: 3 Power: 6",
+        "effect": "Raises own power",
+        "location": "Junon Region",
+        "how_to_get": "Defeat Cameron in Crow's Nest (only after reaching rank 3)"
+    },
+    {
+        "number": "114",
+        "name": "Mythril Golem",
+        "stats": "Rank: 3 Power: 8",
+        "effect": "No ability",
+        "location": "Gold Saucer",
+        "how_to_get": "Win the \"Luxury Real Estate\" Queen's Blood challenge in Wonderment Square"
+    },
+    {
+        "number": "115",
+        "name": "Terror of the Deep",
+        "stats": "Rank: 3 Power: 2",
+        "effect": "Enfeeble",
+        "location": "Junon Region",
+        "how_to_get": "Win the cruise ship tournament in chapter 5 or buy from Thorin's Card Shop"
+    },
+    {
+        "number": "116",
+        "name": "Grasptropod",
+        "stats": "Rank: 3 Power: 5",
+        "effect": "Enfeeble",
+        "location": "Gold Saucer",
+        "how_to_get": "Win the \"Succulent Succor\" Queen's Blood challenge in Wonderment Square"
+    },
+    {
+        "number": "117",
+        "name": "Custom Valkyrie",
+        "stats": "Rank: 3 Power: 4",
+        "effect": "Enfeeble",
+        "location": "Gold Saucer",
+        "how_to_get": "Win the \"Behind Enemy Line\" Queen's Blood challenge in Wonderment Square"
+    },
+    {
+        "number": "118",
+        "name": "Gigatrice",
+        "stats": "Rank: 3 Power: 5",
+        "effect": "Destroy",
+        "location": "Gold Saucer",
+        "how_to_get": "Win the \"Chadley the Callous\" Queen's Blood challenge"
+    },
+    {
+        "number": "134",
+        "name": "J-Squad",
+        "stats": "Rank: 3 Power: 2",
+        "effect": "Fill empty positions",
+        "location": "Corel Region",
+        "how_to_get": "Finish the \"Saga of the Seaside Inn\" side quest"
+    },
+    {
+        "number": "135",
+        "name": "Chocobo Jockey",
+        "stats": "Rank: 2 Power: 2",
+        "effect": "Bonus points",
+        "location": "Gold Saucer",
+        "how_to_get": "Exchange for 150 GP in Chocobo Square"
+    },
+    {
+        "number": "136",
+        "name": "Space Ranger",
+        "stats": "Rank: 1 Power: 2",
+        "effect": "Raises own power",
+        "location": "Gold Saucer",
+        "how_to_get": "Exchange for 150 GP in Speed Square"
+    },
+    {
+        "number": "137",
+        "name": "Haunted Hotel",
+        "stats": "Rank: 1 Power: 1",
+        "effect": "Enhance",
+        "location": "Gold Saucer",
+        "how_to_get": "Exchange for 150 GP in Ghost Square"
+    },
+    {
+        "number": "138",
+        "name": "Skywheel",
+        "stats": "Rank: 3 Power: 2",
+        "effect": "No ability",
+        "location": "Gold Saucer",
+        "how_to_get": "Exchange for 150 GP in Skywheel Square"
+    },
+    {
+        "number": "139",
+        "name": "Loveless",
+        "stats": "TBA",
+        "effect": "TBA",
+        "location": "Gold Saucer",
+        "how_to_get": "Exchange for 150 GP in Event Square"
+    },
+    {
+        "number": "140",
+        "name": "SaucerSquad",
+        "stats": "TBA",
+        "effect": "TBA",
+        "location": "Gold Saucer",
+        "how_to_get": "Exchange for 150 GP in Wonderment Square"
+    },
+    {
+        "number": "141",
+        "name": "Dio",
+        "stats": "Rank: 3 Power: 4",
+        "effect": "Raises own power",
+        "location": "Gold Saucer",
+        "how_to_get": "Exchange for 150 GP in Battle Square"
+    }
+]
