@@ -32,4 +32,4 @@ for row in cards_table.find('tbody').find_all('tr'):
 with open('cards.json', 'w') as file:
     json.dump(cards, file, indent=4)
 
-print(f'if this number is 141, it worked thank god : {len(cards)}')
+print(f'total:{len(cards)}/141')
