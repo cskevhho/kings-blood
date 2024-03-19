@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-url = 'https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24082221/queens-blood-cards-all-list-how-to-get'
+url = 'https://screenrant.com/ff7-rebirth-queens-blood-card-locations-rewards/' 
 
 # get page
 response = requests.get(url)
@@ -21,9 +21,9 @@ for row in cards_table.find('tbody').find_all('tr'):
     card_details = {
         'number': cols[0].text.strip(),
         'name': cols[1].text.strip(),
-        'stats': cols[2].text.strip(),
-        'effect': cols[3].text.strip(),
-        'location': cols[4].text.strip(),
+        'cost': cols[2].text.strip(),
+        'power': cols[3].text.strip(),
+        'effect': cols[4].text.strip(),
         'how_to_get': cols[5].text.strip(),
     }
     cards.append(card_details)
@@ -32,4 +32,4 @@ for row in cards_table.find('tbody').find_all('tr'):
 with open('cards.json', 'w') as file:
     json.dump(cards, file, indent=4)
 
-print(f'total:{len(cards)}/141')
+print(f'total:{len(cards)}/145')
